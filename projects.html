@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<style>
+body {
+  background-color: white;
+}
+
+h1 {
+  font-family: "Lucida Console", sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 40px; 
+}
+
+p {
+  font-family: "Lucida Console", sans-serif;
+  font-size: 20px;
+  margin-left: 30px;
+}
+.este{ 
+  font-family:"Lucida Console", sans-serif; 
+  font-size: 20px; 
+  margin-left:30px; 
+  text-align: center; 
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  font-size:20px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #4CAF50;
+}
+.active {
+  background-color: #4CAF50;
+}
+
+h1 {
+  font-size: 30px;
+  color: #000;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+h3 {
+  font-family: "Lucida Console", sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 30px; 
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px; 
+}
+
+
+
+a:visited {
+  color: white; 
+  background-color: #333;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:link { 
+  color: white; 
+  background-color: #333; 
+  text-align: center; 
+  text-decoration: none; 
+  display: inline-block; 
+}
+
+a:hover, a:active {
+  background-color: gray;
+}
+
+footer {
+  position: absolute; 
+  text-align: center;
+  padding: 0.5px;
+  background-color: #333;
+  color: white; 
+  width:100%; 
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+img { 
+  max-width: 100%; 
+  height: auto; 
+}
+
+</style>
+</head>
+<body>
+
+<ul class = "horizontal">
+	<!-- <li><a href="index.html">Home</a></li> -->
+  <li><a href="projects.html">Projects</a></li>
+  <li><a href="about.html">About</a></li>
+  <a href="https://github.com/arcelioeperez/" target="_blank"><i class="fa
+		fa-github" style="font-size:50px"></i></a>
+</ul>
+
+
+<h1 class="w3-container">Projects</h1>
+<div class="este">
+<p id = "text-folder">
+
+In my free time I have developed several projects dealing with data analysis, finance, and databases. <br> 
+<br> 
+They are all hosted on GitHub. <br> 
+
+<br>
+ 
+Feel free to clone, fork, or copy the code from those projects. If something doesn't work please let me know, so that I can correct and learn from those mistakes. <br> 
+
+<br> 
+</p>
+</div>
+<div class = "row"> 
+<div class = "column">
+<h3 class="w3-container"> Internship </h3> 
+
+<p id = "text-folder"> 
+
+Internship/Volunteer opportunity at The GreatFull Plate. <br>
+
+<br> <b>Machine Learning Algorithms Used:</b> <br> 
+- Linear Regression (Python and R) <br> 
+- Random Forest (Python and R) <br> 
+
+<a href="https://github.com/arcelioeperez/dash-app/"><img
+	src="internship.png"></a>
+
+</p>
+</div>
+<div class = "column">
+<h3 class="w3-container"> Finance </h3> 
+<p id = "text-folder"> 
+
+<b>Monte Carlo Simulation (Python) </b><br> 
+Using a put European Option with the Black-Scholes-Merton method.
+
+<br> <b>Compound Interest (C and C++) </b><br> 
+C++ program uses Object Oriented Programming, vectors, and references <br> 
+C program uses arrays and pointers <br>
+
+<a href="https://github.com/arcelioeperez/
+		 Finance-Projects"><img src="financee.png"></a>
+</p> 
+</div>
+<div class = "column"> 
+<h3 class="w3-container">csvtomysql</h3> 
+<p id = "text-folder"> 
+Program written entirely in Python that allows the user to transfer a CSV file
+to MySQL. <br> 
+
+<br>
+
+<b>Libraries used:</b> <br> 
+PyMySQL<br>
+Pandas<br>
+SQLAlchemy<br>
+MySQL Client<br>
+
+<a href="https://github.com/arcelioeperez/csvtomysql/"><img
+	src="csvtomysql.png"></a>
+</p> 
+</div>
+</div> 
+<!--GitHub Logo <i class="fa fa-github fa-5x">GitHub</i> --> 
+
+
+<!-- Button <a href="github.com/arcelioeperez/" target="i">Repo</a> --> 
+
+<!-- GitHub repo <a href="https://github.com/arcelioeperez/" class="btn btn-outline btn-lg" onclick="_gaq.push(['_trackEvent', 'exit', 'header', 'GitHub']);"><span class="fa fa-github"></span> View on GitHub</a> --> 
+
+</body>
+
+<footer>
+  <p>personal.website arcelioeperez<br>
+  <a href="mailto:ae@example.com">Email Here</a></p>
+</footer>
+
+</html>
