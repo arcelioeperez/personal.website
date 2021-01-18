@@ -87,7 +87,7 @@ a:link {
 }
 
 a:hover, a:active {
-  background-color: gray;
+  background-color: #4CAF50;
 }
 
 footer {
