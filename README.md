@@ -20,20 +20,20 @@ Links in the website include:
 Try the website [here](https://arcelioeperez.github.io/pw/)  
 
 Tree Structure:  
-.
-├── about.html
-├── css
-│   ├── about.css
-│   └── index.css
-├── img
-│   ├── csvtomysql.png
-│   ├── financee.png
-│   └── internship.png
-├── index.html
-├── LICENSE
-├── Notes
-├── README.md
-└── treestructure.txt  
+.  
+├── about.html  
+├── css  
+│   ├── about.css  
+│   └── index.css  
+├── img  
+│   ├── csvtomysql.png  
+│   ├── financee.png  
+│   └── internship.png  
+├── index.html  
+├── LICENSE  
+├── Notes  
+├── README.md  
+└── treestructure.txt    
   
   
 **References:**  
