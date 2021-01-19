@@ -28,8 +28,7 @@ Tree Structure:
 │   ├── financee.png  
 │   └── internship.png  
 ├── index.html  
-├── LICENSE  
-├── Notes  
+├── LICENSE    
 ├── README.md  
 └── treestructure.txt      
   

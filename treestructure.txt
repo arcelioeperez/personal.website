@@ -9,8 +9,7 @@
 │   └── internship.png
 ├── index.html
 ├── LICENSE
-├── Notes
 ├── README.md
 └── treestructure.txt
 
-2 directories, 11 files
+2 directories, 10 files
