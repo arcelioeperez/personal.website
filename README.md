@@ -14,8 +14,8 @@ styles with the `index.css` and `about.css` files.
 To view the changes, just open the any of the `.html` files on the browser.    
 
 Links in the website include:   
-- GitHub button that links to all the GitHub repositories        
-- Images that link to the project GitHub repository  
+- GitHub button that links to all my account repositories         
+- Images that link to the project's GitHub repository    
 
 Directory structure:  
 .  
