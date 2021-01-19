@@ -18,6 +18,23 @@ Links in the website include:
 - Images that link to the projects GitHub page  
   
 Try the website [here](https://arcelioeperez.github.io/pw/)  
+
+Tree Structure:  
+.
+├── about.html
+├── css
+│   ├── about.css
+│   └── index.css
+├── img
+│   ├── csvtomysql.png
+│   ├── financee.png
+│   └── internship.png
+├── index.html
+├── LICENSE
+├── Notes
+├── README.md
+└── treestructure.txt  
+  
   
 **References:**  
 W3 - [HTML](https://www.w3schools.com/html/)    
