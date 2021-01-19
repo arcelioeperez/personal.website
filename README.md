@@ -5,8 +5,6 @@
 
 pw = Personal Website  
 
-<hr style="border:0.5px solid gray"> </hr>  
-
 This is a basic portfolio website. It is mobile compatible and it contains only
 the most basic CSS and HTML components.  
 
