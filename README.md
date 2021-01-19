@@ -17,8 +17,8 @@ Links in the website include:
 - GitHub button that links to all the repositories in my account          
 - Images that link to the project's GitHub repository    
 
-Directory structure:  
-.  
+Directory structure:    
+```python
 ├── about.html  
 ├── css  
 │   ├── about.css  
@@ -30,7 +30,8 @@ Directory structure:
 ├── index.html  
 ├── LICENSE    
 ├── README.md  
-└── treestructure.txt      
+└── treestructure.txt
+```  
   
 Try the website [here](https://arcelioeperez.github.io/pw/)  
   
