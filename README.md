@@ -18,6 +18,6 @@ Links in the website include:
 - Images that link to the projects GitHub page   
   
 **References:**  
-W3 - [W3 - HTML](https://www.w3schools.com/html/)    
+W3 - [HTML](https://www.w3schools.com/html/)    
 W3 CSS - [CSS](https://www.w3schools.com/w3css/defaulT.asp)    
 Bootstrap - [Bootstrap](https://getbootstrap.com/)  
