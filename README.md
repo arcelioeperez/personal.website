@@ -1,6 +1,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
 # PW - personal website  
 
+**What is pw?**  
+
+pw = Personal Website  
+
+---
 
 This is a basic portfolio website. It is mobile compatible and it contains only
 the most basic CSS and HTML components.  
