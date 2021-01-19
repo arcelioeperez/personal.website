@@ -17,7 +17,7 @@ Links in the website include:
 - GitHub button that links to a GitHub repo    
 - Images that link to the projects GitHub page  
 
-Tree Structure:  
+Directory structure:  
 .  
 ├── about.html  
 ├── css  
