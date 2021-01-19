@@ -16,7 +16,7 @@ Links in the website include:
 - GitHub button that links to a GitHub repo    
 - Images that link to the projects GitHub page   
 
-References:    
+**References:**      
 W3 - [W3 - HTML](https://www.w3schools.com/html/)    
 W3 CSS - [CSS](https://www.w3schools.com/w3css/defaulT.asp)    
 Bootstrap - [Bootstrap](https://getbootstrap.com/)  
