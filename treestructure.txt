@@ -1,6 +1,5 @@
 .
 ├── about.html
-├── base.html
 ├── css
 │   ├── about.css
 │   └── index.css
@@ -14,4 +13,4 @@
 ├── README.md
 └── treestructure.txt
 
-2 directories, 12 files
+2 directories, 11 files
