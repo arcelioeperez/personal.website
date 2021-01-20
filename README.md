@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![Lines of code](https://img.shields.io/tokei/lines/github/arcelioeperez/pw)  
 # PW - personal website  
 
 **What is pw?**  
