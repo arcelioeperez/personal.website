@@ -6,7 +6,9 @@
 pw = Personal Website  
 
 This is a basic portfolio website. It is mobile compatible and it contains only
-the most basic CSS and HTML components.  
+the most basic CSS and HTML components.    
+
+For `dark mode` it use a JavaScript function named `dmode()`.  
 
 
 Feel free to clone or fork this website and use it for yourself.   
