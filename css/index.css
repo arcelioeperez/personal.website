@@ -172,7 +172,7 @@ img {
   display: inline-block; 
 }
 
-.fa-moon-o:hover, fa-moon-o:active {
+.fa-moon-o:hover{
   background-color: #4CAF50;
   color:white;
 }
