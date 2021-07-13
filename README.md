@@ -9,7 +9,7 @@ This is a basic portfolio website. It is mobile compatible and it contains only
 the most basic CSS and HTML components.    
 
 For `dark mode` it use a JavaScript function named `dmode()`.  
-*most of the code for the dark mode found on: W3 schools*.  
+> most of the code for the dark mode found on: W3 schools.  
 
 
 Feel free to clone or fork this website and use it for yourself.   
