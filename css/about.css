@@ -2,12 +2,21 @@ body {
   background-color: white;
 }
 
+body.dark-mode{
+	background-color: #333;
+	color: white;
+}
+
 h1 {
   font-family: "Lucida Console", sans-serif;
   color: black;
   text-align: center;
   font-size: 40px; 
   padding: 15px; 
+}
+
+body.dark-mode h1{
+	color: white;
 }
 
 p {
@@ -53,6 +62,10 @@ h1 {
   border-bottom: 1px solid #ccc;
   padding-bottom: 10px;
 }
+
+body.dark-mode h1{
+	color: white;
+}
 h3 {
   font-family: "Lucida Console", sans-serif;
   color: black;
@@ -60,6 +73,10 @@ h3 {
   font-size: 30px; 
   border-bottom: 1px solid #ccc;
   padding-bottom: 5px; 
+}
+
+body.dark-mode h3{
+	color: white;
 }
 
 
@@ -98,4 +115,34 @@ footer {
   right:0px;
 }
 
+.fa-moon-o {
+	display: inline-block;
+	color: white;
+	font-size: 35px; 
+	text-align: center;
+	padding: 10px; 
+	text-decoration: none;
+	margin-left: 15px;
+}
 
+.fa-moon-o:visited{
+  display: block;
+  font-size: 35px;
+  color: white; 
+  background-color: #333;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa-moon-o:link { 
+  color: white; 
+  background-color: #333; 
+  text-align: center; 
+  text-decoration: none; 
+  display: inline-block; 
+}
+
+.fa-moon-o:hover{
+  background-color: #4CAF50;
+  color:white;
+}
